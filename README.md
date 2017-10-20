@@ -1,12 +1,13 @@
 # Branch-Predictors
 Program that reads addresses and whether it is taken or not taken from input file and writes results into a test file. 
 Then runs different branch predictors:
-    1. Always Taken
-    2. Always Not Taken
-    3. One-bit Bimodal Predictor
-    4. Two-bit Bimodal Predictor
-    5. Gshare Predictor
-    6. Tournament Predictor (combination of Two-bit Bimodal and Gshare)
+
+1. Always Taken
+2. Always Not Taken
+3. One-bit Bimodal Predictor
+4. Two-bit Bimodal Predictor
+5. Gshare Predictor
+6. Tournament Predictor (combination of Two-bit Bimodal and Gshare)
     
 Output file Format:
 
